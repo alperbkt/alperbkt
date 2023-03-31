@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alperbkt
-- 👀 I’m interested in JavaScript 
-- 🌱 I’m currently learning JavaScript and React
-- 🚀 You can call me the best software developer of the future.
+- 👀 I’m interested in React and nodeJS
+- 🌱 I’m currently learning MERN stack.
+-
 
 <!---
 alperbkt/alperbkt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
